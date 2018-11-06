@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_1</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="MathNet.Spatial" Version="*"/>
+    <PackageReference Include="NUnit" Version="3.11.0"/>
+  </ItemGroup>
+</Project>
